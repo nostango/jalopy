@@ -1,0 +1,9 @@
+/* src/styles/Home.module.css */
+.main {
+    padding: 2rem;
+    text-align: center;
+}
+
+.about {
+margin-top: 2rem;
+}
