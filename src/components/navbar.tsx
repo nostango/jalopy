@@ -24,7 +24,7 @@ export function Navbar() {
     <header className="flex items-center justify-between px-4 py-3 sm:px-6 lg:px-8">
       <Link className="flex items-center" href="#">
         <MountainIcon className="h-6 w-6" />
-        <span className="ml-2 text-lg font-bold">Jalopy Inc</span>
+        <span className="ml-2 text-lg font-bold">Currently testing out things that I haven't tried before</span>
       </Link>
       <div className="flex items-center space-x-4">
         <Link
